@@ -15,7 +15,7 @@ Successfully led the development of [APPKUBE].
 Received accolades for my problem-solving skills and ability to deliver under tight deadlines.
 Actively contributed to open-source projects and participated in hackathons.
 🌱 Currently Learning:
-I'm always eager to expand my knowledge and stay updated with the latest technologies. Currently, I'm diving deeper into [mention technology or skill you're currently learning] to enhance my skill set and tackle new challenges.
+I'm always eager to expand my knowledge and stay updated with the latest technologies. Currently, I'm diving deeper into Go language currently to enhance my skill set and tackle new challenges.
 
 📫 Let's Connect:
 If you're passionate about technology and software development like me, let's connect! Feel free to reach out to me on LinkedIn for discussions, collaboration opportunities, or just to geek out about code.
